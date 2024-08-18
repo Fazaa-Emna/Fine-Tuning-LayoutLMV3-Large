@@ -5,6 +5,7 @@ Welcome to the repository for our project focused on fine-tuning the **LayoutLMv
 ## **Project Overview**
 
 In the financial industry, the ability to automatically classify various sections of a financial report is crucial for efficient data processing and analysis. This project addresses this need by fine-tuning the LayoutLMv3 model on a custom dataset, which was meticulously prepared and is available on [Hugging Face](https://huggingface.co/datasets/EmnaFazaa/financial_data_labled_2).
+![main](Project-Overview.png)
 
 ### **Key Features**
 
