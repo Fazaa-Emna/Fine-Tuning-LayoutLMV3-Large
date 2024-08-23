@@ -28,6 +28,9 @@ This project is part of a larger initiative aimed at automating the processing o
 ### **Why This Project is Important**
 
 Financial reports are critical documents that require precise and accurate interpretation. Automating the classification of these documents not only saves time but also reduces the potential for human error, ensuring that financial data is handled with the utmost accuracy and efficiency.
+![main](Login.jpg)
+![main](Report_classification.jpg)
+![main](Report_Classification_2.jpg)
 
 ### **Contributing**
 Contributions are welcome! Whether you’re fixing bugs, improving documentation, or adding new features, feel free to open a pull request.
